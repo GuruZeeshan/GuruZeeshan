@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad Zeeshan
-- 👀 I’m interested in SoftWare Engeering
+- 👀 I’m interested in SoftWare Engineering
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me https://www.linkedin.com/in/muhammad-zeeshan-92576323b/
